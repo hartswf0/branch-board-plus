@@ -1,0 +1,20 @@
+{
+  "name": "branch-board-vanilla",
+  "version": "1.0.0",
+  "description": "Nature-inspired digital classroom management platform (Vanilla JS)",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "education",
+    "classroom",
+    "digital-board",
+    "vanilla-js"
+  ],
+  "author": "Branch Board Team",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode-generator": "^1.4.4"
+  }
+}
